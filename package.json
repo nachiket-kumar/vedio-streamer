@@ -1,0 +1,16 @@
+{
+  "name": "vedio-streamer",
+  "version": "1.0.0",
+  "description": "backend eng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "backend"
+  ],
+  "author": "Nachiket Kumar",
+  "license": "ISC"
+}
